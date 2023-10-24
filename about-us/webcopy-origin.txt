@@ -1,0 +1,1356 @@
+Uri: http://evergreen.ae/wp-content/uploads/2016/08/aim-bg.jpg?id=59
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\aim-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://evergreen.ae/wp-content/uploads/2016/08/edge.jpg?id=108
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\edge.jpg
+Content Type: image/jpeg
+
+Uri: http://evergreen.ae/wp-content/uploads/2016/08/values-bg.jpg?id=83
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\values-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/
+File Name: E:\NNARR\clone\evergreen.ae\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/about-us/
+File Name: E:\NNARR\clone\evergreen.ae\about-us\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/careers/
+File Name: E:\NNARR\clone\evergreen.ae\careers\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/comments/feed/
+File Name: E:\NNARR\clone\evergreen.ae\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://evergreen.ae/contact-us/
+File Name: E:\NNARR\clone\evergreen.ae\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/feed/
+File Name: E:\NNARR\clone\evergreen.ae\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://evergreen.ae/our-brands/
+File Name: E:\NNARR\clone\evergreen.ae\our-brands\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/our-clients/
+File Name: E:\NNARR\clone\evergreen.ae\our-clients\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/
+File Name: E:\NNARR\clone\evergreen.ae\products\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/cheese/
+File Name: E:\NNARR\clone\evergreen.ae\products\cheese\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/dry-goods/
+File Name: E:\NNARR\clone\evergreen.ae\products\dry-goods\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/oil/
+File Name: E:\NNARR\clone\evergreen.ae\products\oil\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/potato-products/
+File Name: E:\NNARR\clone\evergreen.ae\products\potato-products\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/processed-meat-products/
+File Name: E:\NNARR\clone\evergreen.ae\products\processed-meat-products\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/products/proteins/
+File Name: E:\NNARR\clone\evergreen.ae\products\proteins\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/services/
+File Name: E:\NNARR\clone\evergreen.ae\services\index.htm
+Content Type: text/html
+
+Uri: https://evergreen.ae/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\css\js_composer_tta.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\bower\isotope\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\vc-tta-autoplay\vc-tta-autoplay.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\vc_accordion\vc-accordion.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\vc_tabs\vc-tabs.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.6.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/logo-showcase-with-slick-slider/assets/css/lswss-public.css?ver=1.2.3
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\logo-showcase-with-slick-slider\assets\css\lswss-public.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/logo-showcase-with-slick-slider/assets/css/slick.css?ver=1.2.3
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\logo-showcase-with-slick-slider\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/logo-showcase-with-slick-slider/assets/images/ajax-loader.gif
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\logo-showcase-with-slick-slider\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://evergreen.ae/wp-content/plugins/logo-showcase-with-slick-slider/assets/images/arrow-left.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\logo-showcase-with-slick-slider\assets\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/logo-showcase-with-slick-slider/assets/images/arrow-right.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\logo-showcase-with-slick-slider\assets\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.4.11
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.4.8
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.11
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/plugins/sharjah-theme-core/inc/vcex/assets/js/vcex-shortcodes.min.js?ver=1.2.10
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\plugins\sharjah-theme-core\inc\vcex\assets\js\vcex-shortcodes.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/css/vcex-shortcodes.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\css\vcex-shortcodes.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/css/wpex-contact-form-7.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\css\wpex-contact-form-7.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/css/wpex-mobile-menu-breakpoint-max.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\css\wpex-mobile-menu-breakpoint-max.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/css/wpex-mobile-menu-breakpoint-min.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\css\wpex-mobile-menu-breakpoint-min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/css/wpex-wpbakery.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\css\wpex-wpbakery.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/cursors/close.ico
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\cursors\close.ico
+Content Type: image/x-icon
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/cursors/close2x.ico
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\cursors\close2x.ico
+Content Type: image/x-icon
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/bullets-blue.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\bullets-blue.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/bullets-gray.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\bullets-gray.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/bullets-purple.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\bullets-purple.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/bullets-red.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\bullets-red.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/carousel-video-play-btn.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\carousel-video-play-btn.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/check.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\check.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/dashed-overlay.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\dashed-overlay.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/dotted-overlay.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\dotted-overlay.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/dotted.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\dotted.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/overlay-plus.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\overlay-plus.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/images/quote.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\images\quote.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/core/hoverIntent.min.js?ver=1.10.1
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\core\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/core/jquery.easing.min.js?ver=1.3.2
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\core\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/core/superfish.min.js?ver=1.7.4
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\core\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/core/supersubs.min.js?ver=0.3b
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\core\supersubs.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/dynamic/animsition-init.js?ver=1.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\dynamic\animsition-init.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/dynamic/sidr.min.js?ver=2.2.1
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\dynamic\sidr.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/js/sharjah.min.js?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\js\sharjah.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/animsition/animsition.css?ver=4.0.2b
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\animsition\animsition.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/animsition/animsition.js?ver=4.0.2b
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\animsition\animsition.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/hover-css/hover-css.min.css?ver=2.0.1
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\hover-css\hover-css.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/css/ticons.min.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\css\ticons.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.eot
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.eot?
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.svg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.ttf
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.woff
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont.woff
+Content Type: font/woff
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/assets/lib/ticons/fonts/ticons-webfont.woff2
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\assets\lib\ticons\fonts\ticons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://evergreen.ae/wp-content/themes/Sharjah/style.css?ver=2.0.0
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\themes\Sharjah\style.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/aria.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\aria.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/black.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\black.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/burj-khalifa.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\burj-khalifa.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/chillis.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\chillis.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/Diluigis.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\Diluigis.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/eve_crop1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\eve_crop1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/food_logo.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\food_logo.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/golden-chef.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\golden-chef.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/Greater-Omaha.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\Greater-Omaha.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/know-more.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\know-more.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/la.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\la.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/LEZZET.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\LEZZET.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/MadisonValley.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\MadisonValley.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/martins.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\martins.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/meat.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\meat.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/MIYABI-LOGO-20201222.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\MIYABI-LOGO-20201222.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/movenpick.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\movenpick.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/okan.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\okan.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/radisson.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\radisson.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/ramada.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\ramada.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/08/sheraton.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\08\sheraton.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/about_stuff.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\about_stuff.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/butcher.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\butcher.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/careers_stuff.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\careers_stuff.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_1-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_1-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_3-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_3-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_5-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_5-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_5.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_5.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_6-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_6-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/cheese_6.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\cheese_6.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/coya.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\coya.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/hardrock.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\hardrock.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/qk.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\qk.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/services_stuff.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\services_stuff.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/09/sofitel.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\09\sofitel.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_2-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_2-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_2.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_2.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_3-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_3-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_3.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_3.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_5-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_5-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_5.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_5.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_6-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_6-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/cheese_6.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\cheese_6.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_1-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_1-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_3-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_3-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_3-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_3-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_3.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_3.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/dry_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\dry_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_1-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_1-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_3-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_3-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_3-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_3-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_3.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_3.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_4-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_4-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_4.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_4.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/meat_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\meat_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_1-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_1-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_1-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_1-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_1.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_1.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_3-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_3-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_3-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_3-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_3.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_3.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/oil_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\oil_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_1-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_1-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_1.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_1.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_3-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_3-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_3-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_3-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_3.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_3.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_3.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_3.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/potato_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\potato_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_1-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_1-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_1.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_1.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_2-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_2-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_2.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_2.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_4-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_4-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2016/11/proteins_4.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2016\11\proteins_4.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_11-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_11-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_11.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_11.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_12-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_12-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_12.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_12.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_13-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_13-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_13.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_13.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_14-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_14-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_14.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_14.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_15-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_15-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_15.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_15.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_16-300x250.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_16-300x250.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_16.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_16.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_8-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_8-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_8.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_8.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_9-1-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_9-1-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/01/proteins_9-1.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\01\proteins_9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2017/11/gunaydin.png
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2017\11\gunaydin.png
+Content Type: image/png
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/first-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\first-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/first.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\first.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0008-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0008-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0008.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0008.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0009-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0009-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0009.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0009.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0010-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0010-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0010.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0010.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0012-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0012-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0012.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0012.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0013-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0013-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0013.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0013.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0014-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0014-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0014.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0014.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0016-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0016-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0016.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0016.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0017-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0017-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0017.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0017.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0018-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0018-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0018.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0018.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0019-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0019-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0019.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0019.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0020-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0020-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0020.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0020.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0021-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0021-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201022-WA0021.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201022-WA0021.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201024-WA0004-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201024-WA0004-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201024-WA0004.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201024-WA0004.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201024-WA0005-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201024-WA0005-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/IMG-20201024-WA0005.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\IMG-20201024-WA0005.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/Untitled-18888-300x250.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\Untitled-18888-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-content/uploads/2020/10/Untitled-18888.jpg
+File Name: E:\NNARR\clone\evergreen.ae\wp-content\uploads\2020\10\Untitled-18888.jpg
+Content Type: image/jpeg
+
+Uri: https://evergreen.ae/wp-includes/css/dist/block-library/style.min.css?ver=5.7.10
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://evergreen.ae/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-includes/js/wp-embed.min.js?ver=5.7.10
+File Name: E:\NNARR\clone\evergreen.ae\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://evergreen.ae/wp-json/
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fabout-us%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fabout-us%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fcareers%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fcareers%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fcontact-us%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fcontact-us%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Four-brands%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Four-brands%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Four-clients%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Four-clients%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fcheese%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fcheese%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fdry-goods%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fdry-goods%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Foil%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Foil%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fpotato-products%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fpotato-products%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fprocessed-meat-products%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fprocessed-meat-products%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fproteins%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fproducts%2Fproteins%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fservices%2F
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/oembed/1.0/embed?url=https:%2F%2Fevergreen.ae%2Fservices%2F&format=xml
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/159
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\159
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/177
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\177
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/179
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\179
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/192
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\192
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/207
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\207
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/210
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\210
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/220
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\220
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/226
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\226
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/228
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\228
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/230
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\230
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/233
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\233
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/236
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\236
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/238
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\238
+Content Type: application/json
+
+Uri: https://evergreen.ae/wp-json/wp/v2/pages/7
+File Name: E:\NNARR\clone\evergreen.ae\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://evergreen.ae/xmlrpc.php?rsd
+File Name: E:\NNARR\clone\evergreen.ae\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans+Caption:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&subset=latin
+File Name: E:\NNARR\clone\evergreen.ae\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v19/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+File Name: E:\NNARR\clone\evergreen.ae\s\ptsanscaption\v19\0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v19/0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+File Name: E:\NNARR\clone\evergreen.ae\s\ptsanscaption\v19\0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+Content Type: font/ttf
+
